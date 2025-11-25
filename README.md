@@ -20,6 +20,6 @@ Estou sempre aberto a novos desafios e oportunidades de aprendizado. Sinta-se à
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/murilomunhao/)](https://www.instagram.com/murilomunhao/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/murilomunhao/)](https://www.linkedin.com/in/murilomunhao/)
-[![DIO Badge](https://img.shields.io/badge/-Digital%20Innovation%20One-orange?style=flat-square&logo=https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png&logoColor=white&link=https://web.dio.me/users/contato_25182?tab=skills)](https://web.dio.me/users/contato_25182?tab=skills)
+
 
 
